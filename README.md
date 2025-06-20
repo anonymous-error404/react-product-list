@@ -51,27 +51,6 @@ npm test - Launches the test runner
 npm run build - Builds the app for production
 npm run eject - Ejects from Create React App (one-way operation)
 
-Project Structure
-react-product-list/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── ProductList.js
-│   │   ├── ProductCard.js
-│   │   ├── SearchBar.js
-│   │   └── FilterPanel.js
-│   ├── hooks/
-│   │   └── useProducts.js
-│   ├── data/
-│   │   └── products.json
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── package.json
-└── README.md
-
 ##What I'd Improve with More Time
 
 State Management: Implement Redux or Context API for better state management across components
